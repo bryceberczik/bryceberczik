@@ -4,7 +4,7 @@ I'm an aspiring developer passionate about web development and currently focused
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: A world clock app that requests an api for all times around the globe.
+- 🔭 I’m currently working on: A full stack movie finder app!
 - 🌱 I’m currently learning: Backend development and improving my full-stack skills.
 - 💬 Ask me about: JavaScript, HTML/CSS, and frontend development.
 - 📫 How to reach me: [berczikbryce@gmail.com](mailto:berczikbryce@gmail.com) | [Here is my LinkedIn!](https://www.linkedin.com/in/bryce-berczik-9b4874323/)
