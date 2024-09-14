@@ -13,7 +13,7 @@ I'm an aspiring developer passionate about web development and currently focused
 
 ## 🛠️ Languages and Tools
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Learning Node.js, Express, Typescript
 - **Tools**: Git, Bootstrap, VS Code
 
