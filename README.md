@@ -6,8 +6,8 @@ I'm an aspiring developer passionate about web development and currently focused
 
 - 🔭 I’m currently working on: A clothing app named Shiyaaka!
 - 🌱 I’m currently learning: Backend development and improving my full-stack skills.
-- 💬 Ask me about: JavaScript, HTML/CSS, and frontend development.
-- 📫 How to reach me: [berczikbryce@gmail.com](mailto:berczikbryce@gmail.com) | [Here is my LinkedIn!](https://www.linkedin.com/in/bryce-berczik-9b4874323/)
+- 💬 Ask me about: Typescript, React, and Postgresql.
+- 📫 How to reach me: [bryceberczik.dev@gmail.com](mailto:bryceberczik.dev@gmail.com) | [Here is my LinkedIn!](https://www.linkedin.com/in/bryce-berczik-9b4874323/)
 
 - ⚡ Fun fact: I'm also exploring nutrition and healthy eating while pursuing my tech career.
 
@@ -25,4 +25,4 @@ I'm an aspiring developer passionate about web development and currently focused
 ## 📌 Featured Projects
 
 - [Wish Board App](https://github.com/bryceberczik/wishlist-board) - A web app for creating and managing wish lists.
-- [Finance App](https://github.com/bryceberczik/project-c) - A weather application using built-in browser APIs.
+- [Finance App](https://github.com/bryceberczik/project-c) - A finance app using only front end javascript to help handle your expenses.
