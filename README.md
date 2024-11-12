@@ -15,7 +15,7 @@ I'm an aspiring developer passionate about web development and currently focused
 
 - **Frontend**: HTML, CSS, Typescript, React
 - **Backend**: Sql, noSql, MongoDB, Postgresql, Express
-- **Tools**: Git, Bootstrap, VS Code
+- **Tools**: Git, Bootstrap, VS Code, Testing, CI/CD
 
 ## 📈 GitHub Stats
 
