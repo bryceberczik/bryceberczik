@@ -4,7 +4,7 @@ I'm an aspiring developer passionate about web development and currently focused
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: A cloud storage application called Stellabyte
+- 🔭 I’m currently working on: My development portfolio!
 - 🌱 I’m currently learning: Algorithmic skills & problem solving
 - 💬 Ask me about: Typescript, React, and Full stack development.
 - 📫 How to reach me: [bryceberczik.dev@gmail.com](mailto:bryceberczik.dev@gmail.com) | [Here is my LinkedIn!](https://www.linkedin.com/in/bryce-berczik-9b4874323/)
