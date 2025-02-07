@@ -25,5 +25,5 @@ I'm an aspiring developer passionate about web development and currently focused
 
 ## 📌 Featured Projects
 
-- [Digbi AI](https://github.com/bryceberczik/Digbi-AI) - A web app for creating and managing wish lists.
-- [Stellabyte](https://github.com/ZVKubajak/Stellabyte) - A finance app using only front end javascript to help handle your expenses.
+- [Digbi AI](https://github.com/bryceberczik/Digbi-AI) - An AI chatbot that helps you find patterns in datasets using JSON.
+- [Stellabyte](https://github.com/ZVKubajak/Stellabyte) - A cloud storage application that creates art using the properties of the file uploaded.
