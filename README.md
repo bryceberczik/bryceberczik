@@ -1,5 +1,9 @@
 # Hi there 👋, I'm Bryce Berczik!
 
+# Check out my portfolio!
+
+https://bryceberczik.dev/
+
 I'm an aspiring developer passionate about web development and currently focused on honing my skills in both frontend and backend technologies. 
 
 ## 🚀 About Me
