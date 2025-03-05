@@ -8,8 +8,8 @@ I'm an aspiring developer passionate about web development and currently focused
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: My development portfolio!
-- 🌱 I’m currently learning: Algorithmic skills & problem solving
+- 🔭 I’m currently working on: A startup for users to review food for rewards!
+- 🌱 I’m currently learning: Aerospike & React Native!
 - 💬 Ask me about: Typescript, React, and Full stack development.
 - 📫 How to reach me: [bryceberczik.dev@gmail.com](mailto:bryceberczik.dev@gmail.com) | [Here is my LinkedIn!](https://www.linkedin.com/in/bryce-berczik-9b4874323/)
 
@@ -18,7 +18,7 @@ I'm an aspiring developer passionate about web development and currently focused
 ## 🛠️ Languages and Tools
 
 - **Frontend**: Typescript, React, Tailwind, Zod
-- **Backend**: MongoDB, Postgresql, Prisma, Zod
+- **Backend**: MongoDB, Postgresql, Prisma, Zod, Aerospike
 - **Tools**: Git, Bootstrap, React Bootstrap, VS Code, Testing, CI/CD
 - **Additonal Languages**: Beginner at Python, C, and Lua
 
