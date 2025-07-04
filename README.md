@@ -4,12 +4,12 @@
 
 https://bryceberczik.dev/
 
-I'm an aspiring developer passionate about web development and currently focused on honing my skills in both frontend and backend technologies. 
+I'm an aspiring developer passionate about software development and currently focused on honing my skills in both frontend and backend technologies. 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: A startup for users to review food for rewards!
-- 🌱 I’m currently learning: Aerospike & React Native!
+- 🔭 I’m currently working on: A startup called Byte club for AI-driven food review & reward system!
+- 🌱 I’m currently learning: RAG AI agents & Vector Quering.
 - 💬 Ask me about: Typescript, React, and Full stack development.
 - 📫 How to reach me: [bryceberczik.dev@gmail.com](mailto:bryceberczik.dev@gmail.com) | [Here is my LinkedIn!](https://www.linkedin.com/in/bryce-berczik-9b4874323/)
 
@@ -17,10 +17,10 @@ I'm an aspiring developer passionate about web development and currently focused
 
 ## 🛠️ Languages and Tools
 
-- **Frontend**: Typescript, React, Tailwind, Zod
-- **Backend**: MongoDB, Postgresql, Prisma, Zod, Aerospike
+- **Frontend**: Typescript, React, Tailwind, Zod, Zustand, React Query, React Native
+- **Backend**: MongoDB, Postgresql, Prisma, Zod, Aerospike, Qdrant, 
 - **Tools**: Git, Bootstrap, React Bootstrap, VS Code, Testing, CI/CD
-- **Additonal Languages**: Beginner at Python, C, and Lua
+- **Additonal Languages**: Beginner at Python & Lua
 
 ## 📈 GitHub Stats
 
@@ -29,5 +29,5 @@ I'm an aspiring developer passionate about web development and currently focused
 
 ## 📌 Featured Projects
 
-- [Digbi AI](https://github.com/bryceberczik/Digbi-AI) - An AI chatbot that helps you find patterns in datasets using JSON.
+- [RAG AI Agent Chatbot Widget](https://github.com/bryceberczik/Digbi-AI) - An AI chatbot that takes files and webscrapes webpages to give the user access to a vector searching AI.
 - [Stellabyte](https://github.com/ZVKubajak/Stellabyte) - A cloud storage application that creates art using the properties of the file uploaded.
