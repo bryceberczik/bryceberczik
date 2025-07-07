@@ -8,7 +8,7 @@ I'm an aspiring developer passionate about software development and currently fo
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: A startup called Byte club for AI-driven food review & reward system!
+- 🔭 I’m currently working on: A multiplayer Black Jack card game!
 - 🌱 I’m currently learning: RAG AI agents & Vector Quering.
 - 💬 Ask me about: Typescript, React, and Full stack development.
 - 📫 How to reach me: [bryceberczik.dev@gmail.com](mailto:bryceberczik.dev@gmail.com) | [Here is my LinkedIn!](https://www.linkedin.com/in/bryce-berczik-9b4874323/)
@@ -29,5 +29,5 @@ I'm an aspiring developer passionate about software development and currently fo
 
 ## 📌 Featured Projects
 
-- [RAG AI Agent Chatbot Widget](https://github.com/bryceberczik/Digbi-AI) - An AI chatbot that takes files and webscrapes webpages to give the user access to a vector searching AI.
+- [RAG AI Agent Chatbot Widget](https://github.com/ZVKubajak/rag-chatbot) - An AI chatbot that takes files and webscrapes webpages to give the user access to a vector searching AI.
 - [Stellabyte](https://github.com/ZVKubajak/Stellabyte) - A cloud storage application that creates art using the properties of the file uploaded.
