@@ -8,7 +8,7 @@ I'm an aspiring developer passionate about software development and currently fo
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: A multiplayer Black Jack card game!
+- 🔭 I’m currently working on: Learning Cyber Security!
 - 🌱 I’m currently learning: RAG AI agents & Vector Quering.
 - 💬 Ask me about: Typescript, React, and Full stack development.
 - 📫 How to reach me: [bryceberczik.dev@gmail.com](mailto:bryceberczik.dev@gmail.com) | [Here is my LinkedIn!](https://www.linkedin.com/in/bryce-berczik-9b4874323/)
